@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to learn guitar and piano in my free time, my favorite genres are Gospel, R&B and classic Rock
 
-## tools and technologies
+## Tools and technologies
 
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
