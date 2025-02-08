@@ -1,11 +1,13 @@
-<header id="top">
-  
-</header>
+
 <!--
 **Richke2005/Richke2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+<header id="top">
+  
+</header>
 - 💻 I’m currently studying computer science
 - 🌱 I fell in love with technology in mid-2022 when I discovered software development focused on the web, since then I have delved deeper into the field. I like how technology can start from the abstract, an idea and help people in a physical way, overcoming barriers like
 - 💬 If you have any questions regarding software development, cloud resources, IOT, AI, or any other field of technology, I will do my best to clarify your question.
