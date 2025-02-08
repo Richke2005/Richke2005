@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 🛠️ I’m passionate about building solutions that have real-world impact—whether through AI, IoT, automation, or cloud computing. I love how technology transforms abstract ideas into something tangible, breaking barriers and improving lives.
 
-💬 Have questions about software development, cloud infrastructure, industrial automation, IoT, AI, or data engineering? Let’s talk! I'm always open to discussing new technologies and sharing knowledge.
+💬 Have questions about software development, industrial automation, IoT, AI, or data engineering? Let’s talk! I'm always open to discussing new technologies and sharing knowledge.
 
 📫 How to reach me: richardke18@gmail.com
 
