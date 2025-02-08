@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎸 Beyond code: I enjoy playing guitar and piano in my free time. My favorite music genres are Gospel, R&B, and Classic Rock.
 
--⚡ Fun fact: I have a deep interest in robotics and mechatronics, blending hardware and software to create innovative systems.
+⚡ Fun fact: I have a deep interest in robotics and mechatronics, blending hardware and software to create innovative systems.
 
 ## Tools and technologies
 
