@@ -7,18 +7,15 @@ Here are some ideas to get you started:
 #👋 Hello Devs! Welcome to my Github profile. 
 ## My name is Richard and my nickname is "Rick"!
 
--🚀 About Me
--💻 Computer Science Student | Fullstack JavaScript Developer | Aspiring Data Engineer
+🚀 About Me
 
--🌱 My journey into technology began in mid-2022 when I discovered web development. Since then, I've immersed myself in the world of software engineering, automation, and industrial control, constantly seeking to expand my skills. Today, I work as a Fullstack JavaScript Developer, and I'm diving into Data Engineering to bridge the gap between software and intelligent data processing.
+💻 Computer Science Student | Fullstack JavaScript Developer | Aspiring Data Engineer
 
--🛠️ I’m passionate about building solutions that have real-world impact—whether through AI, IoT, automation, or cloud computing. I love how technology transforms abstract ideas into something tangible, breaking barriers and improving lives.
-
--💬 Have questions about software development, cloud infrastructure, industrial automation, IoT, AI, or data engineering? Let’s talk! I'm always open to discussing new technologies and sharing knowledge.
-
--📫 How to reach me: richardke18@gmail.com
-
--🎸 Beyond code: I enjoy playing guitar and piano in my free time. My favorite music genres are Gospel, R&B, and Classic Rock.
+🌱 My journey into technology began in mid-2022 when I discovered web development. Since then, I've immersed myself in the world of software engineering, automation, and industrial control, constantly seeking to expand my skills. Today, I work as a Fullstack JavaScript Developer, and I'm diving into Data Engineering to bridge the gap between software and intelligent data processing.
+🛠️ I’m passionate about building solutions that have real-world impact—whether through AI, IoT, automation, or cloud computing. I love how technology transforms abstract ideas into something tangible, breaking barriers and improving lives.
+💬 Have questions about software development, cloud infrastructure, industrial automation, IoT, AI, or data engineering? Let’s talk! I'm always open to discussing new technologies and sharing knowledge.
+📫 How to reach me: richardke18@gmail.com
+🎸 Beyond code: I enjoy playing guitar and piano in my free time. My favorite music genres are Gospel, R&B, and Classic Rock.
 
 -⚡ Fun fact: I have a deep interest in robotics and mechatronics, blending hardware and software to create innovative systems.
 
