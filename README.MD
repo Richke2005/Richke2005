@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hello Devs! Welcome to my Github profile. 
-## My name is Richard and my nickname is "Rick"!
 
 ## 🚀 About Me
 
