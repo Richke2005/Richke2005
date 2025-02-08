@@ -1,6 +1,6 @@
-# 👋 Hello Devs! Welcome to my Github profile.
-## My name is Richard and my nickname is "Rick"!
-
+<header id="top">
+  
+</header>
 <!--
 **Richke2005/Richke2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Tools and technologies
 
-<div>
+<div style="padding: 10; border-radius: 10; background-color: white;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" marginLeft="10" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" margin="10" width="40" height="40"/>
 </div>
 
 ## I'm learning
-<div>
+<div style="padding: 10; border-radius: 10; background-color: white;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
 </div>
@@ -48,5 +48,28 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richke2005&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Richke2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<script>
+  const topData = document.getElementById('top');
+
+  const text = '#👋 Hello Devs! Welcome to my Github profile. ## My name is Richard and my nickname is "Rick"!';
+
+  function textTypingEffect(element, text, i = 0){
+    if(i === 0){
+      element.textContent = '';
+    }
+
+    element.textContent += text[i];
+
+    if(i === text.length -1){
+      return ;
+    }
+
+    setTimeout(() => textTypingEffect(element, text, i+1), 50)
+  }
+
+  textTypingEffect(topData, text, 0);
+
+</script>
           
 ![snake gif](https://github.com/Richke2005/Richke2005/blob/output/github-contribution-grid-snake.svg)
