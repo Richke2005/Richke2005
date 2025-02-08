@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-*💻 Computer Science Student | Fullstack JavaScript Developer | Aspiring Data Engineer*
+💻 Computer Science Student | Fullstack JavaScript Developer | Aspiring Data Engineer
 
 🌱 My journey into technology began in mid-2022 when I discovered web development. Since then, I've immersed myself in the world of software engineering, automation, and industrial control, constantly seeking to expand my skills. Today, I work as a Fullstack JavaScript Developer, and I'm diving into Data Engineering to bridge the gap between software and intelligent data processing.
 
